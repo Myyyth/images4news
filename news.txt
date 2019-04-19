@@ -1,0 +1,41 @@
+Introduction
+Our last lab was devoted to evaluating search quality. In this home work you will reuse implemented evaluation techniques to explore the effect of different query expansion methods. Read chapter 9 thoroughly before proceeding to the job.
+
+Query expansion, as the name suggests, is the art of expanding, or modifying user query such that the modified version allows to retrieve better results - more documents relevant to the user’s information need with better ranking.
+
+The methods for tackling this problem split into two major classes: global methods and local methods. Global methods are techniques for expanding or reformulating query terms independent of the query and results returned from it. Global methods include:
+
+• Query expansion/reformulation with a thesaurus orWordNet (Section 9.2.2)
+• Query expansion via automatic thesaurus generation (Section 9.2.3)
+
+Local methods adjust a query relative to the documents that initially appear to match the query. The basic methods here are:
+
+• Relevance feedback (Section 9.1)
+• Pseudo relevance feedback (Section 9.1.6)
+
+Your task will be to try both approaches and compare their effectiveness.
+
+Local Methods
+Implement one of the algorithms for relevance feedback - e.g. Rocchio or Ide Dec-hi, or any probabilistic approach such as Naive Bayes. You will need user’s relevance judgements, but you can simulate them if you know what documents are actually relevant.
+
+It is suggested to perform evaluations on the Cranfield dataset we used last time, but if you are able to find any other query-relevance dataset, feel free to use it and let me know.
+
+Be very careful with evaluation - section 9.1.5 explaines the possible caveats.
+
+Compare the approach you have chosen with pseudo relevance feedback (which also needs to be implemented). Discuss the results you’ve got.
+
+Global Methods
+Now, choose an approach for query expansion: you can use WordNet, any other thesauri or word embeddings. It is a lot better in terms of experience and grade if your implementation will be based on some research paper. Trivial solutions will also be accepted but may get a lower grade.
+
+Alternative approach is to go broad - compare several methods, where each one may be not very complex but the value is in thoughtful comparison and following analysis.
+
+Finally, compare (quantitatively) local and global methods. Is it possible to maka a direct comparison? If not, why?
+
+Part 2. Document Summarization
+What we haven’t touch so far is the ways of presenting information to the user. The great improvement of search experience may be obtained by better summarizing the contents of the retrived documents. Indeed, bad representation may destroy everything - if a user is not satisfied with document summary, he/she won’t open it even if this document is actually relevant to his/her information need.
+
+So, as you see, this is an important problem to solve. The question is how to design the summary so as to maximize its usefulness to the user. For starters, go through the chapter 8.7.
+
+Here you need to consider and implement 2-3 different approaches (again, it’s your choice to go deep or to go broad) and compare them qualitatively - you should provide the examples of queries and summaries produced by different methods. Better to provide screenshots of system output. Any dataset can be used for this problem, better to explore new ones.
+
+Pay attention to actual document contents - the summary should reflect it, without false embellishment.
