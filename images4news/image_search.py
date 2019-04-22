@@ -6,8 +6,7 @@ api = 'AIzaSyC93OUGHwRdKGFRTj29DLHitMyjiXg-7GI'
 cx = '013647856763265462959:2bv6b82j20i'
 
 
-custom_search = build("customsearch", "v1",
-                       developerKey=api)
+custom_search = build("customsearch", "v1", developerKey=api)
 
 
 def search(k, q):

@@ -1,0 +1,1 @@
+0	file:/home/rakzeee/Files/IR/images4news/images4news/../news_examples/news1.txt	0.25174216027874563	0.25174216027874563	0.18902439024390244	0.3074912891986063
