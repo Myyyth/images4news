@@ -1,7 +1,6 @@
-from rake_nltk import Rake, Metric
+import RAKE
 
 
 def get_keywords(text):
-    r = Rake(ranking_metric=Metric.WORD_FREQUENCY)
-    r.extract_keywords_from_text(text)
-    return r.get_ranked_phrases()
+    r = RAKE.Rake(RAKE.GoogleSearchStopList())
+    return r.run(text, 1, 4, 1)
