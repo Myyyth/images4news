@@ -23,12 +23,14 @@ def search_image(requst):
             'links': None
         }
         if requst.body is not None:
-            body = requst.data
-            keyphrases = get_keywords(body['text'])
+            data = requst.data
+            keyphrases = get_keywords(data['text'])
             query = ''
-            for i in range(5):
-                query += '{0} '.format(keyphrases[i])
-            images = search(body['amount'], query)
+            phrases_amount = 1
+            for i in range(phrases_amount):
+                if i < len(keyphrases):
+                    query += '{0} '.format(keyphrases[i])
+            images = search(int(data['amount']), query)
             response['keyphrases'] = keyphrases[:5]
             response['links'] = images
             return Response(response, status=status.HTTP_200_OK)
