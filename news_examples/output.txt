@@ -1,0 +1,27 @@
+1. ['hollywood', 'like', 'worldwid', 'smartwatch', 'sound', 'undertak', 'peopl', 'cell', 'year']
+['x-raw-image:///0a0ad3dd76b3bd87a2bdf5fcf0684b8698ae6faf6bd2ee31bd8f95dbeb087ee3', 'https://image.isu.pub/181031045911-9bff111107cdf1b41d8e4b6335f7a9d4/jpg/page_1.jpg', 'https://maas.museum/app/uploads/2015/06/late-Night_eat-the-collection2.jpg', 'https://image.isu.pub/181031045911-9bff111107cdf1b41d8e4b6335f7a9d4/jpg/page_1_thumb_large.jpg']
+
+2. ['murder', 'lyra', 'arrest', 'connect', 'woman', 'derri', 'mckee', 'year']
+['https://i.guim.co.uk/img/media/ea8e7db38acd576a35bc4085ce18efb5d1a2e213/9_329_5316_3191/master/5316.jpg?width=300&quality=85&auto=format&fit=max&s=437932e2a114d8c8c74d1e49727db30f', 'https://cdn-01.independent.ie/incoming/article38035227.ece/83b3c/AUTOCROP/w620/P27.letters.jpg', 'https://www.telegraph.co.uk/content/dam/news/2019/04/22/TELEMMGLPICT000194706083_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg?imwidth=450', 'https://www.dw.com/image/48412045_303.jpg']
+
+3. ['queen', 'overnight', 'meghan', 'markl', 'elizabeth']
+['https://media.vanityfair.com/photos/5b22b3a3c5251462a0769f48/master/pass/queen-elizabeth-meghan-markle-outing.jpg', 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hbz-queen-elizabeth-meghan-markle-1526677040.jpg', 'https://media.vanityfair.com/photos/5b22b3a3c5251462a0769f48/master/w_768,c_limit/queen-elizabeth-meghan-markle-outing.jpg', 'https://cdn-04.independent.ie/incoming/article35751285.ece/fe712/AUTOCROP/w620/meghan.jpg']
+
+4. ['journalist', 'htun', 'report', 'pulitz', 'earlier']
+['https://static01.nyt.com/images/2019/04/23/world/23myanmar-1/merlin_153787413_12c3b30e-82f3-4bdc-a69c-1e752e4c3fdf-articleLarge.jpg?quality=75&auto=webp&disable=upscale', 'https://pbs.twimg.com/media/DqR7DfEXQAAsbhB.jpg:large', 'https://static01.nyt.com/images/2019/04/23/world/23myanmar-1/merlin_153787413_12c3b30e-82f3-4bdc-a69c-1e752e4c3fdf-jumbo.jpg', 'https://media.newyorker.com/photos/5abd0e84b7c20f7c026f18c3/master/w_727,c_limit/McLaughlin-Jailed-Journalists-Who-Covered-Massacre-of-Pohingya.jpg']
+
+5. ['goal', 'hard', 'develop', 'tesla', 'autopilot', 'softwar', 'autonom', 'form']
+['https://i.ytimg.com/vi/gcCmfzhhpxA/maxresdefault.jpg', 'https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fbradtempleton%2Ffiles%2F2019%2F02%2Fonautopilot-1200x900.jpg', 'https://cdn.vox-cdn.com/thumbor/k0A1Lf2no3gvkEOubEJ9Mbu-gKo=/0x0:1432x806/1400x788/filters:focal(252x313:480x541):format(png)/cdn.vox-cdn.com/uploads/chorus_image/image/56126783/tesla_.0.png', 'https://fortunedotcom.files.wordpress.com/2016/07/tesla.jpg']
+
+6. ['luke', 'walton', 'news', 'accus', 'coach', 'report', 'sport']
+['https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/270/152/Luke-Walton-THUMB.jpg?ve=1&tl=1', 'https://i.cbc.ca/1.5106956.1555994379!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/walton-luke-042219.jpg', 'https://media2.s-nbcnews.com/j/newscms/2019_17/2633396/181105-luke-walton-lakers-mn-1400_91a44503550d4b1f2a59c0e162e41291.fit-760w.jpg', 'https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/640/320/1862/1048/Luke-Walton-THUMB.jpg?ve=1&tl=1?ve=1&tl=1']
+
+7. ['allen', 'idea', 'draft', 'want']
+['https://nbcprofootballtalk.files.wordpress.com/2019/04/gettyimages-1038193700-e1555995329568.jpg?w=560&h=316&crop=1', 'https://cdn.vox-cdn.com/thumbor/Q8GgoZTOANeD2Mn0dOV5JapXF54=/0x0:2000x1233/1200x800/filters:focal(840x457:1160x777)/cdn.vox-cdn.com/uploads/chorus_image/image/63335327/Zach_Allen.0.jpg', 'https://thenypost.files.wordpress.com/2018/04/allen2.jpg?quality=90&strip=all&w=618&h=410&crop=1', 'https://cdn.vox-cdn.com/uploads/chorus_image/image/63309773/1054357206.jpg.0.jpg']
+
+8. ['galaxi', 'fold', 'break', 'sampl', 'retriev', 'report', 'samsung']
+['https://qtxasset.com/fiercewireless/1555598483/Samsung-Galaxy-Fold_3.jpg/Samsung-Galaxy-Fold_3.jpg?3Vu8iWvtOxB.cWRIXEsxcYexdY_7I6o3', 'https://www.extremetech.com/wp-content/uploads/2019/04/641422-galaxy-fold-14-640x360.jpg', 'https://fsmedia.imgix.net/58/7e/86/43/8ce6/4e02/a068/ab9c1986d126/5e5213df780d-1gif.gif?auto=compress&dpr=2&w=650&fm=jpg', 'https://qtxasset.com/styles/breakpoint_sm_default_480px_w/s3/fiercewireless/1555598483/Samsung-Galaxy-Fold_3.jpg/Samsung-Galaxy-Fold_3.jpg?vPIaqVTrP7m0E6SW7m_ojbxsewkG9zDA&itok=oAs1DC9V']
+
+9. ['small', 'time', 'sunday', 'bomb', 'lanka', 'attack']
+['https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/04/21/105862667-1555868762047rtx6smlu.530x298.jpg?v=1555868867', 'https://cdn.cnn.com/cnnnext/dam/assets/190421152149-19-sri-lanka-blasts-04212019-large-169.jpg', 'https://ichef.bbci.co.uk/images/ic/720x405/p0773vc1.jpg', 'https://static01.nyt.com/images/2019/04/22/world/21srilanka-print/merlin_153788106_5f63839c-d354-4a3f-86f2-d88bd68a7fcc-articleLarge.jpg?quality=75&auto=webp&disable=upscale']
+

@@ -37,12 +37,13 @@ def search_image(requst):
             else:
                 response['error'] = True
                 return Response(response, status=status.HTTP_400_BAD_REQUEST)
-            query = ''
-            phrases_amount = 2
-            for i in range(phrases_amount):
-                if i < len(keywords):
-                    query += '{0} '.format(keywords[i])
-            images = search(int(data['amount']), query)
+            phrases_amount = 3
+            total = []
+            for i, keyword in enumerate(keywords):
+                if i < phrases_amount:
+                    total.extend(keyword.split())
+            total = list(set(total))
+            images = search(int(data['amount']), ' '.join(total))
             response['keywords'] = keywords[:5]
             response['links'] = images
             return Response(response, status=status.HTTP_200_OK)
